@@ -18,6 +18,7 @@ def install_exit_on_sigpipe_handler():
     def sigpipe(signum, frame):
         os._exit(0)
 
+    import os
     import signal
     signal.signal(signal.SIGPIPE, sigpipe)
 

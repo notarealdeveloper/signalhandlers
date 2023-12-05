@@ -1,10 +1,10 @@
 [project]
-name = "sigs"
+name = "signalhandlers"
 version = "0.0.1"
 authors = [
   { name="Jason Wilkes", email="notarealdeveloper@gmail.com" },
 ]
-description = "Signals."
+description = "Signal handlers."
 
 [project.urls]
-"Homepage" = "https://github.com/notarealdeveloper/sigs"
+"Homepage" = "https://github.com/notarealdeveloper/signalhandlers"

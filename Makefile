@@ -1,4 +1,4 @@
-PKG = sigs
+PKG = signalhandlers
 
 build:
 	pip install build

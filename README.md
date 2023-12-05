@@ -1,3 +1,3 @@
-# sigs
+# signalhandlers
 
-Signals.
+Signal handlers.

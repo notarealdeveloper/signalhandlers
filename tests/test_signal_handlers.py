@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-def test_sigs():
+def test_signal_handlers():
     pass
